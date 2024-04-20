@@ -3,7 +3,7 @@ export const contactsData = {
     phone: '+917087804581',
     address: 'Ekta Nagar, Jalandhar, Punjab  ',
     github: 'https://github.com/Shubham-708',
-    facebook: 'https://www.facebook.com/shubhampant/',
+    facebook: 'https://www.facebook.com/shubham.pant.12720',
     linkedIn: 'https://www.linkedin.com/in/shubhampant708/',
     twitter: 'https://www.linkedin.com/in/shubhampant708/',
     stackOverflow: 'https://www.linkedin.com/in/shubhampant708/',
